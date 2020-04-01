@@ -1,5 +1,6 @@
 # Fillit
 
+## Sujet
 Fillit est un projet vous permettant de decouvrir et/ou de vous familiariser avec
 une problematique récurrente en programmation : la recherche d’une solution optimale
 parmi un très grand nombre de possibilités, dans un délai raisonable. Dans le cas de ce
@@ -8,4 +9,5 @@ possible pouvant les acueillir.
 Un Tetriminos est une figure géométrique formée de 4 blocs que vous connaissez
 grâce au célèbre jeu Tetris.
 
+## Note
 100/100
